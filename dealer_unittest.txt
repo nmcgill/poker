@@ -1,0 +1,31 @@
+Running main() from gtest_main.cc
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from DealerTest
+[ RUN      ] DealerTest.Deal
+A new round begins. It's player 1's turn to play.
+Player 1 plays  7H 4C 7S 4D 4S
+Player 2 plays  JC 7C 3D 9D KD
+Player 1 wins!
+[       OK ] DealerTest.Deal (0 ms)
+[ RUN      ] DealerTest.Shuffle
+A new round begins. It's player 1's turn to play.
+Player 1 plays  7S 2D AD 8S AS
+Player 2 plays  10S KD 4C 9S 6H
+Player 1 wins!
+A new round begins. It's player 1's turn to play.
+Player 1 plays  10S 9S 2D 6C 10H
+Player 2 plays  2S 9C 3D 4S 7C
+Player 1 wins!
+[       OK ] DealerTest.Shuffle (0 ms)
+[ RUN      ] DealerTest.CardPosition
+A new round begins. It's player 1's turn to play.
+Player 1 plays  JD 7C 3H KC KS
+Player 2 plays  4S 10S 7D 7S 4D
+Player 2 wins!
+[       OK ] DealerTest.CardPosition (0 ms)
+[----------] 3 tests from DealerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 3 tests.

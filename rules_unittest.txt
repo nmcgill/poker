@@ -1,0 +1,89 @@
+Running main() from gtest_main.cc
+[==========] Running 40 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 40 tests from RulesTest
+[ RUN      ] RulesTest.HighScore
+[       OK ] RulesTest.HighScore (0 ms)
+[ RUN      ] RulesTest.IsRoyalFlush
+[       OK ] RulesTest.IsRoyalFlush (0 ms)
+[ RUN      ] RulesTest.IsStraightFlush
+[       OK ] RulesTest.IsStraightFlush (0 ms)
+[ RUN      ] RulesTest.IsFourKind
+[       OK ] RulesTest.IsFourKind (0 ms)
+[ RUN      ] RulesTest.IsFullHouse
+[       OK ] RulesTest.IsFullHouse (0 ms)
+[ RUN      ] RulesTest.IsFlush
+[       OK ] RulesTest.IsFlush (0 ms)
+[ RUN      ] RulesTest.IsStraight
+[       OK ] RulesTest.IsStraight (0 ms)
+[ RUN      ] RulesTest.IsThreeKind
+[       OK ] RulesTest.IsThreeKind (0 ms)
+[ RUN      ] RulesTest.IsTwoPair
+[       OK ] RulesTest.IsTwoPair (0 ms)
+[ RUN      ] RulesTest.IsOnePair
+[       OK ] RulesTest.IsOnePair (0 ms)
+[ RUN      ] RulesTest.IsHighCard
+[       OK ] RulesTest.IsHighCard (0 ms)
+[ RUN      ] RulesTest.CheckWinRoyalFlush
+[       OK ] RulesTest.CheckWinRoyalFlush (0 ms)
+[ RUN      ] RulesTest.CheckWinStraightFlush
+[       OK ] RulesTest.CheckWinStraightFlush (0 ms)
+[ RUN      ] RulesTest.CheckWinFourKind
+[       OK ] RulesTest.CheckWinFourKind (0 ms)
+[ RUN      ] RulesTest.CheckWinFullHouse
+[       OK ] RulesTest.CheckWinFullHouse (0 ms)
+[ RUN      ] RulesTest.CheckWinFlush
+[       OK ] RulesTest.CheckWinFlush (0 ms)
+[ RUN      ] RulesTest.CheckWinStraight
+[       OK ] RulesTest.CheckWinStraight (0 ms)
+[ RUN      ] RulesTest.CheckWinThreeKind
+[       OK ] RulesTest.CheckWinThreeKind (0 ms)
+[ RUN      ] RulesTest.CheckWinTwoPair
+[       OK ] RulesTest.CheckWinTwoPair (0 ms)
+[ RUN      ] RulesTest.CheckWinOnePair
+[       OK ] RulesTest.CheckWinOnePair (0 ms)
+[ RUN      ] RulesTest.CheckWinHighCard
+[       OK ] RulesTest.CheckWinHighCard (0 ms)
+[ RUN      ] RulesTest.CheckTieRoyalFlush
+[       OK ] RulesTest.CheckTieRoyalFlush (0 ms)
+[ RUN      ] RulesTest.CheckTieStraightFlush
+[       OK ] RulesTest.CheckTieStraightFlush (0 ms)
+[ RUN      ] RulesTest.CheckTieStraightFlushLesser
+[       OK ] RulesTest.CheckTieStraightFlushLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieFourKind
+[       OK ] RulesTest.CheckTieFourKind (0 ms)
+[ RUN      ] RulesTest.CheckTieFourKindLesser
+[       OK ] RulesTest.CheckTieFourKindLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieFullHouse
+[       OK ] RulesTest.CheckTieFullHouse (0 ms)
+[ RUN      ] RulesTest.CheckTieFullHouseLesser
+[       OK ] RulesTest.CheckTieFullHouseLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieFlush
+[       OK ] RulesTest.CheckTieFlush (0 ms)
+[ RUN      ] RulesTest.CheckTieFlushLesser
+[       OK ] RulesTest.CheckTieFlushLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieStraight
+[       OK ] RulesTest.CheckTieStraight (0 ms)
+[ RUN      ] RulesTest.CheckTieStraightLesser
+[       OK ] RulesTest.CheckTieStraightLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieThreeKind
+[       OK ] RulesTest.CheckTieThreeKind (0 ms)
+[ RUN      ] RulesTest.CheckTieThreeKindLesser
+[       OK ] RulesTest.CheckTieThreeKindLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieTwoPair
+[       OK ] RulesTest.CheckTieTwoPair (0 ms)
+[ RUN      ] RulesTest.CheckTieTwoPairLesser
+[       OK ] RulesTest.CheckTieTwoPairLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieOnePair
+[       OK ] RulesTest.CheckTieOnePair (0 ms)
+[ RUN      ] RulesTest.CheckTieOnePairLesser
+[       OK ] RulesTest.CheckTieOnePairLesser (0 ms)
+[ RUN      ] RulesTest.CheckTieHighCard
+[       OK ] RulesTest.CheckTieHighCard (0 ms)
+[ RUN      ] RulesTest.CheckTieHighCardLesser
+[       OK ] RulesTest.CheckTieHighCardLesser (0 ms)
+[----------] 40 tests from RulesTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 40 tests from 1 test case ran. (5 ms total)
+[  PASSED  ] 40 tests.
